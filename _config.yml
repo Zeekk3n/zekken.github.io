@@ -33,7 +33,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: My name is Isaac and I'm a passionate Cyber Security student for the Edinburgh College! I hope you enjoy my humble content! I also blog in hashnode!  <a href="https://obturador.github.io">My blog</a> 
+about_me_description: My name is Isaac and I'm a passionate Cyber Security student for the Edinburgh College! I hope you enjoy my humble content! I also blog in hashnode!  <a href="https://shutter.hashnode.dev">My blog</a> 
 
 # SKILLS SECTION
 # show_skills_card:
