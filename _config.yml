@@ -2,16 +2,16 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Isaac Perez Bassart
+title: Shutter
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: Personal Hubsite
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "https://obturador.github.io/"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Isaac Perez Bassart
+username: Shutter
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Welcome to my site
@@ -33,7 +33,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I'm a passionate Cyber Security student, willing to become a threat hunter! I hope you enjoy my humble content!
+about_me_description: My name is Isaac and I'm a passionate Cyber Security student for the Edinburgh College! I hope you enjoy my humble content! I also blog in hashnode here: https://shutter.hashnode.dev
 
 # SKILLS SECTION
 # show_skills_card:
