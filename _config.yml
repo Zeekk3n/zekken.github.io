@@ -7,7 +7,7 @@ title: Shutter
 description: Personal Hubsite
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "https://obturador.github.io/"
+baseurl: "https://shutter.github.io/"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -85,7 +85,7 @@ contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, se
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: Obturador/obturador.github.io
+repository: Obturador/shutter.github.io
 
 projects:
   # sortby:
