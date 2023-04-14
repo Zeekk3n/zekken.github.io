@@ -5,16 +5,16 @@
 # - name: Framework
 #   weight: 5
 
-- name: 
+- name: Ghidra
   weight: 5
 
-- name: 
+- name: GEF GDB
   weight: 3
 
-- name: 
+- name: LaunchPad
   weight: 4
 
-- name: 
+- name: VCS veritas
   weight: 1
 
 - name: 
