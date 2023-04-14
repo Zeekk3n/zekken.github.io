@@ -5,38 +5,38 @@
 # - name: Language
 #   weight: 5
 
-- name: TypeScript
+- name: Ghydra
   weight: 5
 
-- name: JavaScript
+- name: BashCripting
   weight: 4
 
 - name: Python
   weight: 2
 
-- name: HTML5
+- name: Unix
   weight: 4
 
-- name: CSS3
+- name: Linux
   weight: 3
 
-- name: SASS
+- name: Solaris
   weight: 3
 
-- name: Java
+- name: PowerShell
   weight: 1
 
-- name: Dart
+- name: BurpSuite
   weight: 1
 
-- name: Swift
+- name: Nmap 
   weight: 1
 
-- name: Kotlin
+- name: ProxyChains
   weight: 1
 
-- name: C++
+- name: tshark
   weight: 2
 
-- name: Ruby
+- name: 
   weight: 2
