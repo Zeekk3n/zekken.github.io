@@ -39,7 +39,7 @@ about_me_description: My name is andrey and I'm a passionate Cyber Security stud
 # show_skills_card:
 # > setting this to true, will display the Skills section
 # > setting this to false, will omit the Skills section
-show_skills_card: false
+show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Skills
 
