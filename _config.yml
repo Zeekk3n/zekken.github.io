@@ -33,7 +33,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: My name is andrey and I'm a passionate Cyber Security student for the HTB ! I hope you enjoy my humble content! I also blog in hashnode!  <a href="https://shutter.hashnode.dev">My blog</a> 
+about_me_description: My name is andrey and I'm a passionate Cyber Security student for the HTB ! I hope you enjoy my humble content! I also blog here!  <a href="https://www.linkedin.com/in/andrey-guerra-ortiz-7034a5234/">My blog</a> 
 
 # SKILLS SECTION
 # show_skills_card:
