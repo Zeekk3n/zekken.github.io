@@ -22,21 +22,3 @@
 
 - name: tshark
   weight: 2
-
-- name: wireShark
-  weight: 2
-
-- name: HackRF
-  weight: 4
-
-- name: Proxychains
-  weight: 3
-
-- name: wFuzz
-  weight: 4
-  
- - name: dirbuster
-  weight: 4
-  
-  - name: GDB GEF
-  weight: 4
