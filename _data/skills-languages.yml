@@ -5,7 +5,7 @@
 # - name: Language
 #   weight: 5
 
-- name: Ghydra
+- name: 
   weight: 5
 
 - name: BashCripting
@@ -14,28 +14,28 @@
 - name: Python
   weight: 2
 
-- name: Unix
+- name: 
   weight: 4
 
-- name: Linux
+- name: 
   weight: 3
 
-- name: Solaris
+- name: 
   weight: 3
 
-- name: PowerShell
+- name: 
   weight: 1
 
-- name: BurpSuite
+- name: 
   weight: 1
 
-- name: Nmap 
+- name:  
   weight: 1
 
-- name: ProxyChains
+- name: 
   weight: 1
 
-- name: tshark
+- name: 
   weight: 2
 
 - name: 
